@@ -4,9 +4,13 @@ This project is an AI-powered assistant for musicians and producers that helps c
 
 ## Features
 ✅ MIDI & Score Compatibility – Supports both formats for seamless workflow integration.
+
 ✅ Chord & Melody Expansion – AI suggests creative variations to enhance compositions.
+
 ✅ Dynamic Velocity Modulation – Adjusts note intensity for richer musical expression.
+
 ✅ Unstructured Data Processing – Extracts patterns and trends to generate unique progressions.
+
 
 ## Installation
 <TODO>
@@ -17,7 +21,7 @@ This project is an AI-powered assistant for musicians and producers that helps c
 ## Quarkus Kotlin Backend
 To run the backend, run ./gradlew quarkusDev within the root of the repo
 - /visualization.html for uploading a midi file, rendering, and playing it
-- 
+
 ## Nextjs Frontend
 To run the frontend, run npm run dev within the musicly-frontend directory
 
